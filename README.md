@@ -1,8 +1,8 @@
 ###  Olá, sou Lucas Silvério. Bem vindo ao meu perfil do GitHub.
 
-- 🔭 Atualmente estou trabalhando na <a href="https://www.linkedin.com/company/drogaria-araujo-s-a/" target="_blank">Drogaria Araújo SA</a> como desenvolvedor Sênior
-- 🌱 Atualmente estou cursando a pós-graduação em Arquitetura de Software pela Pontifícia Universidade Católica de Minas Gerais.
-- 💬 Pergunte-me sobre qualquer coisa. Se eu souber irei lhe ajudar, se não irei lhe ajudar a procurar a resposta.
+- 🔭 Atualmente estou trabalhando na <a href="https://www.linkedin.com/company/drogaria-araujo-s-a/" target="_blank">Drogaria Araújo SA</a> como desenvolvedor back-end sênior.
+- 🌱 Atualmente estou cursando a pós-graduação em Arquitetura de Software pela Pontifícia Universidade Católica de Minas Gerais e sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade de Franca.
+- 💬 Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz!
 
 
 ### Fique à vontade.
