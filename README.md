@@ -1,6 +1,6 @@
 ###  Olá, sou Lucas Silvério. Bem vindo ao meu perfil do GitHub.
 
-- 🔭 Atualmente estou trabalhando na <a href="https://www.linkedin.com/company/certsystecnologia/about/" target="_blank">Certsys</a> como desenvolvedor back-end sênior.
+- 🔭 Atualmente estou trabalhando na <a href="https://200dev.com/" target="_blank">Certsys</a> como desenvolvedor back-end sênior.
 
 - 🌱 Atualmente estou cursando a pós-graduação em Arquitetura de Software pela Pontifícia Universidade Católica de Minas Gerais e sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade de Franca.
 
