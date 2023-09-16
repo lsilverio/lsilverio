@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando na <a href="https://200dev.com/" target="_blank">200Dev</a> como desenvolvedor back-end sênior.
 
-- 🌱 Atualmente estou cursando a pós-graduação em Arquitetura de Software pela Pontifícia Universidade Católica de Minas Gerais e sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade de Franca.
+- 🌱 Atualmente estou cursando a pós-graduação em Engenharia de Software e sou Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
 - 💬 Não deixe que as pessoas te façam desistir daquilo que você mais quer na vida. Acredite. Lute. Conquiste. E acima de tudo, seja feliz!
 
