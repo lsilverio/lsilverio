@@ -1,6 +1,6 @@
 ###  Olá, sou Lucas Silvério. Bem vindo ao meu perfil do GitHub.
 
-- 🔭 Atualmente estou trabalhando na <a href="https://200dev.com/" target="_blank">200Dev</a> como desenvolvedor back-end sênior.
+- 🔭 Atualmente estou trabalhando na <a href="https://200dev.com/" target="_blank">200Dev</a> como Engenheiro de Software Especialista.
 
 - 🌱 Atualmente estou cursando a pós-graduação em Engenharia de Software e sou Tecnólogo em Análise e Desenvolvimento de Sistemas.
 
